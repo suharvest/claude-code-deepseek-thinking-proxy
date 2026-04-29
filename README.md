@@ -1,7 +1,7 @@
 # claude-code-deepseek-thinking-proxy
 
 [![npm version](https://img.shields.io/npm/v/claude-code-deepseek-thinking-proxy)](https://www.npmjs.com/package/claude-code-deepseek-thinking-proxy)
-[![license](https://img.shields.io/npm/l/claude-code-deepseek-thinking-proxy)](https://github.com/harvest/claude-code-deepseek-thinking-proxy/blob/main/LICENSE)
+[![license](https://img.shields.io/npm/l/claude-code-deepseek-thinking-proxy)](https://github.com/suharvest/claude-code-deepseek-thinking-proxy/blob/main/LICENSE)
 [![node](https://img.shields.io/node/v/claude-code-deepseek-thinking-proxy)](https://nodejs.org/)
 
 One command to fix **"`content[].thinking` in the thinking mode must be passed back to the API"** when using DeepSeek V4 with Claude Code.
