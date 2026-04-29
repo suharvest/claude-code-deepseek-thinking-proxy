@@ -1,0 +1,22 @@
+{
+  "name": "claude-code-deepseek-thinking-proxy",
+  "version": "1.0.0",
+  "description": "Local proxy that preserves DeepSeek V4 thinking blocks across model switches in Claude Code",
+  "type": "module",
+  "bin": {
+    "deepseek-thinking-proxy": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "cache.js",
+    "messages.js"
+  ],
+  "keywords": [
+    "claude-code",
+    "deepseek",
+    "thinking",
+    "proxy",
+    "anthropic"
+  ],
+  "license": "MIT"
+}
